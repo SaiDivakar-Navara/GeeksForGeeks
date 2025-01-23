@@ -1,4 +1,3 @@
-
 # GeeksforGeeks Problem Solutions
 
 This repository includes solutions to problems I have solved on GeeksforGeeks (GFG). The problems are from various topics including algorithms and data structures.
